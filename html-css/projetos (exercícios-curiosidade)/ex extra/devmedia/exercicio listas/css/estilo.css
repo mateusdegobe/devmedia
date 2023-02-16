@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+}
+
+.itens {
+    border: 2px solid black;
+    width: 200px;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 0 25px 25px 0;
+    background-color: blueviolet;
+    color: white;
+}
+
+.link-itens {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.front-end {
+    background-color: white;
+}

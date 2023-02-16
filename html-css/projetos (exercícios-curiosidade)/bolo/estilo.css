@@ -1,0 +1,53 @@
+div {
+    font-family: Verdana;
+}
+
+header {
+    background-color: yellow;
+    color: black;
+    line-height: 50px;
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: center;
+    font-size: 36px;
+}
+
+.foto {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 22px;
+}
+
+h2 {
+    text-align: center;
+    color: #88100f;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+h3 {
+    text-decoration: underline;
+    color: #88100f;
+    font-size: 16px;
+}
+
+p {
+    font-size: 20px;
+    font-family: Tahoma;
+    color: rgb(12, 12, 12);
+}
+
+a {
+    font-size: 24px;
+    color: rgb(255,0,0);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+span {
+    font-family: Arial;
+    color: #798555;
+}

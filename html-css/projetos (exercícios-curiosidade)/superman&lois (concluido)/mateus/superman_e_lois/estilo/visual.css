@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+/* Seção Topo */
+
+.topo {
+    background: #4711C1;
+    color: #fff;
+    font-size: 22px;
+    width: 100%;
+    padding: 20px 0;
+}
+
+.topo span {
+    margin: 0 30px;
+}
+
+.topo a {
+    border-radius: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    background: #fff;
+    color: #4711C1;
+    padding: 7px 15px;
+    margin: 0 5px;
+}
+
+.topo div {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1024px;
+}
+
+.capa {
+    width: 100%;
+    padding: 0 0 20px 0;
+}
+
+/* Seção Conteúdo */
+
+#Sinopse, #Disponibilidade, .galeria {
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+#Sinopse p {
+    line-height: 25px;
+    font-size: 15px;
+    margin: 0 0 25px 0;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    padding: 0 0 20px 0;
+}
+
+#Disponibilidade img {
+    width: 100%;
+}
+
+#Disponibilidade p {
+    line-height: 25px;
+    font-size: 15px;
+    margin: 10px 0 0 0;
+}
+
+/* Seção Galeria */
+
+.galeria p {
+    margin: 25px 0;
+}
+
+.galeria img {
+    width: 315px;
+    height: 175px;
+    margin: 0 20px 15px 0;
+    box-shadow: 10px 10px 8px #808080;
+}
+
+.album {
+    display: flex;
+    overflow-x: auto;
+    height: 205px;
+    max-width: 950px;
+}
+
+/* Seção Rodapé */
+
+.rodape {
+    background: #4711C1;
+    color: #fff;
+    font-size: 20px;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
