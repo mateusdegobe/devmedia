@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.navegacao, h1, h2, li {
+    text-transform: uppercase;
+}
+
+/*cabeçalho*/
+.cabecalho {
+    position: fixed;
+    background: #604829;
+    width: 100vw;
+    height: 50px;
+}
+
+.logo {
+    position: absolute;
+    width: 50px;
+    left: 100px;
+}
+
+.navegacao {
+    position: absolute;
+    right: 100px;
+    top: 15px;
+    display: inline;
+    color: #c4a47c;
+}
+
+.navegacao span {
+    margin-right: 10px;
+    text-shadow: 3px 3px 3px #000;
+}
